@@ -1,2 +1,2 @@
 # Projecte-Battlebot-Java
-### The purpose of this repository, is a create Java Bot for Telegram Desktop.
+### The purpose of this repository, is create a Java Bot for Telegram Desktop.
