@@ -8,3 +8,8 @@
 #### Battlefield Companion is a official DICE App for consulting player stadistics of the game. 
 
 ![](companion.png)
+
+#### Among the functions of the bot they are consulting the different statistics, weapons, vehicles, details and gadgets!
+
+![](companion2.png)
+
