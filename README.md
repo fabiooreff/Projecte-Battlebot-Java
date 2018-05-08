@@ -3,3 +3,6 @@
 ### The objective of this bot is show Battlefield 1 Game stadistics, of selected player.
 
 ![](battlefield.jpg)
+
+### When player demand info the bot pass the info will go through Battlefield Companion App 
+
