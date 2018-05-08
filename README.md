@@ -5,4 +5,6 @@
 ![](battlefield.jpg)
 
 #### When player demand info the bot pass the info will go through Battlefield Companion App
+#### Battlefield Companion is a official DICE App for consulting player stadistics of the game, 
 
+![]
