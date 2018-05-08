@@ -4,5 +4,5 @@
 
 ![](battlefield.jpg)
 
-### When player demand info the bot pass the info will go through Battlefield Companion App 
+#### When player demand info the bot pass the info will go through Battlefield Companion App
 
