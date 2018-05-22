@@ -67,6 +67,6 @@ public class JarvisBattleBot extends TelegramLongPollingBot {
   @Override
   public String getBotToken(){
     // Return bot token from BothFather --> Reotrna el token del bot desde BothFather
-    return "594526118:AAHA5lDB9RQ6WfuFfyGDaRGMh_MPvGnz3ug";
+    return "Your Telegram token";
   }
 }
