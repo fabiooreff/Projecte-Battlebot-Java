@@ -13,3 +13,5 @@
 
 ![](companion2.png)
 
+#### One of the functionalities is to show Battlefield page news, i do it with the command /battlefieldnews.
+#### It also has the functionality of /myname and /myfullname, which returns your name or your full name in Telegram, it is stupid but it helps to understand a bit the commands of Telegram.
