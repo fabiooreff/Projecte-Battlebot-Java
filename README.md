@@ -10,11 +10,11 @@
 #### In my repository is it so the necessary dependencies for import Telegram API methods.
 #### Remember to make the following imports in the code:
 
-### org.telegram.telegrambots.api.objects.replykeyboard.ReplyKeyboardMarkup
-### org.telegram.telegrambots.api.objects.replykeyboard.buttons.KeyboardRow
-### org.telegram.telegrambots.api.methods.send.SendMessage
-### org.telegram.telegrambots.api.objects.Update
-### org.telegram.telegrambots.bots.TelegramLongPollingBot
-### org.telegram.telegrambots.exceptions.TelegramApiException
-### java.util.ArrayList
-### java.util.List
+##### org.telegram.telegrambots.api.objects.replykeyboard.ReplyKeyboardMarkup
+##### org.telegram.telegrambots.api.objects.replykeyboard.buttons.KeyboardRow
+##### org.telegram.telegrambots.api.methods.send.SendMessage
+##### org.telegram.telegrambots.api.objects.Update
+##### org.telegram.telegrambots.bots.TelegramLongPollingBot
+##### org.telegram.telegrambots.exceptions.TelegramApiException
+##### java.util.ArrayList
+##### java.util.List
