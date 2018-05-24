@@ -1,13 +1,13 @@
 # Projecte-Battlebot-Java
-#### The purpose of this repository, is create a Java Bot for Telegram Desktop.
-#### The objective of this bot is offer news about battlefield news, i mean, it's an information bot for my Telegram friends group, but, is perfect exemple for learning a build a bot.
+
+#### The objective of this bot is offer news about battlefield in my Telegram friends group, and also give more expirience with Telegram bots.
 
 ![](battlefield.jpg)
 
-#### This bot It has basic functions to show specific links of the Battlefield page and finally i put them in a screen keyboard.
+#### This bot has basic functions to show specific links of the Battlefield page, which you can touch in the screen keyboard.
 
 # Dependences 
-#### In my repository is it so the necessary dependencies for import Telegram API methods. Remember to make the following imports in the code:
+#### Necessary dependencies for import Telegram API methods. Remember to make the following imports in the code:
 
 ##### org.telegram.telegrambots.api.objects.replykeyboard.ReplyKeyboardMarkup
 ##### org.telegram.telegrambots.api.objects.replykeyboard.buttons.KeyboardRow
@@ -19,6 +19,5 @@
 ##### java.util.List
 
 # Execute 
-#### When execute the command /help the bot returns message with information of the bot functions, i have also created an on-screen keyboard so that i do not have to write all the functions.
-
+#### When /help is executed the bot returns message with information of the bot functions.
 ![](Pic1.png)
