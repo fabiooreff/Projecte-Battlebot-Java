@@ -21,4 +21,4 @@
 # Execute 
 #### When execute the command /help the bot returns message with information of the bot functions, i have also created an on-screen keyboard so that i do not have to write all the functions.
 
-
+![](Pic1.png)
