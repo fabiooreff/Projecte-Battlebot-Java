@@ -4,7 +4,7 @@
 
 ![](battlefield.jpg)
 
-#### This bot It has basic functions to show specific links of the Battlefield page and finally I put them in a screen keyboard.
+#### This bot It has basic functions to show specific links of the Battlefield page and finally i put them in a screen keyboard.
 
 # Dependences 
 #### In my repository is it so the necessary dependencies for import Telegram API methods. Remember to make the following imports in the code:
@@ -17,3 +17,8 @@
 ##### org.telegram.telegrambots.exceptions.TelegramApiException
 ##### java.util.ArrayList
 ##### java.util.List
+
+# Execute 
+#### When execute the command /help the bot returns message with information of the bot functions, i have also created an on-screen keyboard so that i do not have to write all the functions.
+
+
