@@ -89,7 +89,7 @@ public class JarvisBattleBot extends TelegramLongPollingBot {
         
         if (command.equals("/battletime")){
             CommandCorrect = true;
-            message.setText("Join the Battle! @Salva_G @rafabash @Autentik0 @colmeirin @rubenxu @fabiooreff ");
+            message.setText("Join the Battle! @TelegramAlias @TelegramAlias @TelegramAlias @TelegramAlias @TelegramAlias @TelegramAlias ");
         }
         
          // Amb KeybiardMarkup creem un keboard screen per al bot, on dintre de cada fila marquem una funcio, d'esta manera no hi ha que escriure les funcions a ma
@@ -147,6 +147,6 @@ public class JarvisBattleBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // Reotrna el token del bot desde BothFather, el token es la API Key que fa servir Telegram per a comunicar els bots amb el codi.
-        return "594526118:AAHA5lDB9RQ6WfuFfyGDaRGMh_MPvGnz3ug";
+        return "Your Telegram Token";
     }
 }
